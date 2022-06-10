@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohsin Imam, a second year undergraduate at ARSDC, DU.
-- 👀 I’m interested in Cryptography, Network Security, Blockchain Development and Architecture, Computer Networks
+- 👀 I’m interested in Cloud Computing, Blockchain, Cyber Security and IoT Architecture.
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on 
 - 📫 Email: mohsinimam651@gmail.com
