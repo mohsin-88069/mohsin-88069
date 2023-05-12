@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohsin Imam</h1>
-<h3 align="center">An aspiring Data Professional with interest in Computer Security</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohsin+Imam....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h3 align="centre">An aspiring Data Professional with interest in Academic Research</h3>
+
+
+<img align="center" alt="Mohsin" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsin-88069&label=Profile%20views&color=0e75b6&style=flat" alt="mohsin-88069" /> </p>
 
